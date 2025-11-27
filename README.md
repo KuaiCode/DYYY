@@ -1,3 +1,4 @@
+[原项目](https://github.com/pxx917144686/DYYY)，仅添加`.github/workflows/build.yml`用于使用 GitHub Action 编译。build 文件修改自 [build.yml](https://github.com/Wtrwx/DYYY/blob/main/.github/workflows/build.yml)。
 
 🔴 <font color="red">遵循 [Unlicense 许可证](https://unlicense.org/#unlicensed-free-software)</font>
 
